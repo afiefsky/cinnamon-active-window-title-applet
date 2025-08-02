@@ -22,7 +22,13 @@ A clean and elegant Cinnamon panel applet that displays the name of the currentl
 
 - **Clean & Maintainable**: App names stored in separate JSON file for easy editing
 
-## 🚀 Installation
+## � Screenshot
+
+![Active Window Title Applet Example](images/example.png)
+
+*The applet displays clean application names in your Cinnamon panel*
+
+## �🚀 Installation
 
 1. **Clone or download** this repository
 2. **Copy the entire folder** to your Cinnamon applets directory:
