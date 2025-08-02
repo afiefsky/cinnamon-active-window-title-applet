@@ -1,0 +1,9 @@
+{
+  "uuid": "active-window-title@afief",
+  "name": "Active Window Title",
+  "description": "Displays the title of the currently focused window.",
+  "version": "1.0",
+  "max-instances": 1,
+  "multiversion": false,
+  "icon": "window"
+}
