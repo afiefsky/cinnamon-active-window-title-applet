@@ -2,6 +2,8 @@
 
 A clean and elegant Cinnamon panel applet that displays the name of the currently focused window with smart formatting and truncation.
 
+**Tested on:** Linux Mint 22.1 x86_64 with Cinnamon 6.4.8
+
 ## ✨ Features
 
 - **Pretty App Names**: Transforms raw window class names into readable display names
